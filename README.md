@@ -17,6 +17,8 @@ There are different classes of HABS including cyanobacteria, dinoflagellate, pry
 
 According to our in-depth research and analysis we discovered that about **51% of HABs release toxins**. There are about **2175 animal ilnesses and 117 human illnessses** associated with these toxic releases making it a pressing concern and in need of our immediate attention. <br/>
 
+<img src="![image](https://github.com/sanjana-vivek/SPECTRA/assets/126575036/6cbaee50-4879-4668-9cb9-8477332331ec)" alt="Risk factor graphical analysis of HABs"> <br/>
+
 ## Our motive and solution idea
 Our idea aims to incorporate machine learning algorithms to predict Harmful Algal Blooms (HABs) in aquatic environments. <br/>
 Our project further extends to creating a web interface to send early warning alerts to coastal communities, aquaculture industries and public health agencies about potential HAB events. <br/>
