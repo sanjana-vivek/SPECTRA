@@ -19,7 +19,7 @@ According to our in-depth research and analysis we discovered that about **51% o
 
 ![image](https://github.com/sanjana-vivek/SPECTRA/assets/126575036/6cbaee50-4879-4668-9cb9-8477332331ec)" <br/>
 
-Where
+Where <br/>
 ![image](https://github.com/sanjana-vivek/SPECTRA/assets/126575036/7b477635-e719-4df4-9d70-eb779cbbbf39)  Includes the Annual Report <br/>
 ![image](https://github.com/sanjana-vivek/SPECTRA/assets/126575036/42c6fdcf-e3b8-40d8-81a2-9d158ca780ad)   Includes the HAB events <br/>
 
