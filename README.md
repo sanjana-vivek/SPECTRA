@@ -15,4 +15,4 @@ Shellfish Contamination: Contaminate shellfish with toxins, endangering human co
 Oxygen Depletion: Decomposition of algal biomass leads to oxygen-depleted dead zones in water!
 </ul>
 
-[image](https://github.com/sanjana-vivek/SPECTRA/assets/126575036/f4a8632c-6133-4a74-adbb-b936987194c7)
+
