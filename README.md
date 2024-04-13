@@ -15,7 +15,7 @@ We aim to make our efforts in solving the effects of Harmful Algal Blooms (HABS)
 
 There are different classes of HABS including cyanobacteria, dinoflagellate, prymensiophytes, cyptonomads, raphidophytes, diatoms and more. <br/>
 
-According to our in-depth research and analysis we discovered that about **51% of HABs release toxins**. There are about **2175 animal ilnesses and 117 human illnessses** associated with these toxic releases making it a pressing concern and in need of our immediate attention. <br/>
+According to our in-depth research and analysis we have discovered that about **51% of HABs release toxins**. There are about **2175 animal ilnesses and 117 human illnessses** associated with these toxic releases making it a pressing concern and in need our immediate attention. <br/>
 
 ![image](https://github.com/sanjana-vivek/SPECTRA/assets/126575036/6cbaee50-4879-4668-9cb9-8477332331ec) <br/>
 
@@ -24,12 +24,14 @@ According to our in-depth research and analysis we discovered that about **51% o
 ![image](https://github.com/sanjana-vivek/SPECTRA/assets/126575036/42c6fdcf-e3b8-40d8-81a2-9d158ca780ad)   Includes the HAB events that had occcured in a given time period<br/>
 
 
-## Our motive and solution idea
+## So what's the solution? 
 Our idea aims to incorporate machine learning algorithms to predict Harmful Algal Blooms (HABs) in aquatic environments. <br/>
 Our project further extends to creating a web interface to send early warning alerts to coastal communities, aquaculture industries and public health agencies about potential HAB events. <br/>
-Using Python and its machine learning libraries such as Scikit-learn, TensorFlow, this project employs some predictive models to analyze historical data on environmental conditions, water quality parameters, and past occurrences of HABs and how they depend on geographical features,  water temperature, nutrient levels, pH etc. <br/>
+Using Python and its machine learning libraries such as Scikit-learn, matlab, pandas this project employs 2 predictive models to analyze historical data on environmental conditions, water quality parameters, and past occurrences of HABs and how they depend on geographical features,  water temperature, nutrient levels, pH etc. <br/>
 Satellite imagery data will be our primary tool in the development of accurate predictive models. Our aim is to integrate space technology to address environmental challenges on Earth. <br/>
 
-
+### Our sources
+We have adopted Sentinel 2's Level 2A imagery for our dataset. <br/>
+**Sentinel 2** is a European Space Agency (ESA) mission aimed at providing high-resolution optical imagery of Earth's surface for various applications, including environmental monitoring, agriculture, and disaster management.<br/> Launched in 2015, its purpose is to ensure continuity of data from previous satellites and to improve upon their capabilities, offering multispectral imagery with a wide swath width and frequent revisits.<br/> The satellite constellation captures imagery in 13 spectral bands, enabling detailed monitoring of land cover, vegetation health, and changes over time.
 
 
