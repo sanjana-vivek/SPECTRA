@@ -4,7 +4,7 @@
 
 We aim to make our efforts in solving the effects of Harmful Algal Blooms (HABS) by creating a predictive Random Forest and Support Vector Machine(SVM) models. This model will enable the creation of early warning systems to alert coastal communities, aquaculture industries, and public health agencies about potential HAB events.
 <br/>
-## Harmful Algal blooms
+## Harmful Algal Blooms
 - HABs refer to the rapid bloom of certain types of algal species that produce toxins as it reproduces or when it dies <br/>
 - They can occur in freshwater, brackish water as well as marine environments, leading to visible discoloration of water.<br/>
 - Major types:<br/>
