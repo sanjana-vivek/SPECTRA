@@ -30,7 +30,7 @@ Our project further extends to creating a web interface to send early warning al
 Using **Python** and its machine learning libraries such as Scikit-learn, matlab, pandas this project employs **2 predictive models** to analyze historical data on environmental conditions, water quality parameters, and past occurrences of HABs and how they depend on geographical features,  water temperature, nutrient levels, pH etc. <br/><br/>
 **Satellite imagery data** will be our primary tool in the development of accurate predictive models. Our aim is to integrate space technology to address environmental challenges on Earth. <br/>
 
-### Our sources
+### Leveraging satellite data
 We have adopted Sentinel 2's Level 2A imagery for our dataset. <br/><br/>
 **Sentinel 2** satellite is a European Space Agency (ESA) mission aimed at providing high-resolution optical imagery of Earth's surface for various applications, including environmental monitoring, agriculture, and disaster management.<br/> Launched in 2015, its purpose is to ensure continuity of data from previous satellites and to improve upon their capabilities, offering multispectral imagery with a wide swath width and frequent revisits.<br/> The satellite constellation captures imagery in 13 spectral bands, enabling detailed monitoring of land cover, vegetation health, and changes over time.
 
