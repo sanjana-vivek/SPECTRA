@@ -2,7 +2,7 @@
 **S**atellite-powered **P**rediction and **E**valuation of **C**yanobacterial **T**oxicity and **R**isk **A**ssessment
 <br/>
 
-We aim to make our efforts in solving the effects of Harmful Algal Blooms (HABS) by creating a predictive Support Vector Machines (SVM) model. This model will enable the creation of early warning systems to alert coastal communities, aquaculture industries, and public health agencies about potential HAB events.
+We aim to make our efforts in solving the effects of Harmful Algal Blooms (HABS) by creating a predictive Random Forest and Support Vector Machine(SVM) models. This model will enable the creation of early warning systems to alert coastal communities, aquaculture industries, and public health agencies about potential HAB events.
 <br/>
 ## Harmful Algal blooms
 - HABs refer to the rapid bloom of certain types of algal species that produce toxins as it reproduces or when it dies <br/>
@@ -27,8 +27,8 @@ According to our in-depth research and analysis we have discovered that about **
 ## So what's the solution? 
 Our idea aims to incorporate machine learning algorithms to predict Harmful Algal Blooms (HABs) in aquatic environments. <br/>
 Our project further extends to creating a web interface to send early warning alerts to coastal communities, aquaculture industries and public health agencies about potential HAB events. <br/><br/>
-Using Python and its machine learning libraries such as Scikit-learn, matlab, pandas this project employs 2 predictive models to analyze historical data on environmental conditions, water quality parameters, and past occurrences of HABs and how they depend on geographical features,  water temperature, nutrient levels, pH etc. <br/><br/>
-Satellite imagery data will be our primary tool in the development of accurate predictive models. Our aim is to integrate space technology to address environmental challenges on Earth. <br/>
+Using **Python** and its machine learning libraries such as Scikit-learn, matlab, pandas this project employs **2 predictive models** to analyze historical data on environmental conditions, water quality parameters, and past occurrences of HABs and how they depend on geographical features,  water temperature, nutrient levels, pH etc. <br/><br/>
+**Satellite imagery data** will be our primary tool in the development of accurate predictive models. Our aim is to integrate space technology to address environmental challenges on Earth. <br/>
 
 ### Our sources
 We have adopted Sentinel 2's Level 2A imagery for our dataset. <br/><br/>
