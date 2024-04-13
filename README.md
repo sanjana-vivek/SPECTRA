@@ -24,7 +24,7 @@ According to our in-depth research and analysis we have discovered that about **
 ![image](https://github.com/sanjana-vivek/SPECTRA/assets/126575036/42c6fdcf-e3b8-40d8-81a2-9d158ca780ad)   Includes the HAB events that had occcured in a given time period<br/>
 
 
-## So what's the solution? 
+## Our solution 
 Our idea aims to incorporate machine learning algorithms to predict Harmful Algal Blooms (HABs) in aquatic environments. <br/>
 Our project further extends to creating a web interface to send early warning alerts to coastal communities, aquaculture industries and public health agencies about potential HAB events. <br/><br/>
 Using **Python** and its machine learning libraries such as Scikit-learn, matlab, pandas this project employs **2 predictive models** to analyze historical data on environmental conditions, water quality parameters, and past occurrences of HABs and how they depend on geographical features such as coordinates,  water temperature, chlorophyll a, cells per litre, hpA etc. <br/><br/>
