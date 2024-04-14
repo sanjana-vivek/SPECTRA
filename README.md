@@ -54,7 +54,7 @@ We have adopted Sentinel 2's Level 2A and MODIS's (Moderate Resolution Imaging S
 > [!NOTE]  
 > Our dataset is limited as of now hence there has been a case of over-fitting. 
 
-
+<br/>
 ## Future developments and enhancement
 - Strenghten our model and improve it's accuracy further by enlargening our dataset. Our dataset scarcity is a known limitation we plan to actively work on. *Incorporation of other open data initiatives* such as those by NASA and other data providers can increase our access to free or low-cost satellite imagery. <br/>
 - *Fusion of multiple data sources* such as integrating satellite daata with that of aerial imagery by drones and other UAVs can provide a more comprehensive view of coastal and marine ecosytems.<br/>
