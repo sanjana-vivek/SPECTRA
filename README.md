@@ -56,9 +56,9 @@ We have adopted Sentinel 2's Level 2A and MODIS's (Moderate Resolution Imaging S
 
 <br/>
 ## Future developments and enhancement
-- Strenghten our model and improve it's accuracy further by enlargening our dataset. Our dataset scarcity is a known limitation we plan to actively work on. *Incorporation of other open data initiatives* such as those by NASA and other data providers can increase our access to free or low-cost satellite imagery. <br/>
-- *Fusion of multiple data sources* such as integrating satellite daata with that of aerial imagery by drones and other UAVs can provide a more comprehensive view of coastal and marine ecosytems.<br/>
-- Introducin *innovative modern technology such as cubesats* offer new opportunities for cost-effective and targeted monitoring.<br/>
+- Strenghten our model and improve it's accuracy further by enlargening our dataset. Our dataset scarcity is a known limitation we plan to actively work on. **Incorporation of other open data initiatives** such as those by NASA and other data providers can increase our access to free or low-cost satellite imagery. <br/>
+- **Fusion of multiple data sources** such as integrating satellite daata with that of aerial imagery by drones and other UAVs can provide a more comprehensive view of coastal and marine ecosytems.<br/>
+- Introducing **innovative modern technology such as cubesats** offer new opportunities for cost-effective and targeted monitoring.<br/>
 - *High-Altitude Pseudo-Satellites (HAPS)* can play a significant role in HAB monitoring :-<br/>
   1. <ins>Early detection</ins>  : Equipped with specialised sensors, they can detect HABs from high altitudes. Continuos monitoring helps provide timely response and mitigation efforts.<br/>
   2. <ins>Large scale coverage</ins> : They have capability to cover large areas of water bodies providing comprehensive surveillance of potential HAb hotspots. Their ability to remain stationary or fly in controlled patterns fr extended periods enables systematic monitoring.<br/>
