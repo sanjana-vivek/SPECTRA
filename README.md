@@ -13,15 +13,15 @@ We aim to make our efforts in solving the effects of Harmful Algal Blooms (HABS)
 <ins>Shellfish Contamination</ins> : Contaminate shellfish with toxins, endangering human consumers.<br/>
 <ins>Oxygen Depletion</ins> : Decomposition of algal biomass leads to oxygen-depleted dead zones in water.<br/>
 
-There are different classes of HABS including cyanobacteria, dinoflagellate, prymensiophytes, cyptonomads, raphidophytes, diatoms and more. <br/>
+There are different classes of HABs including cyanobacteria, dinoflagellate, prymensiophytes, cyptonomads, raphidophytes, diatoms and more. <br/>
 
-According to our in-depth research and analysis we have discovered that about **51% of HABs release toxins**. There are about **2175 animal ilnesses and 117 human illnessses** associated with these toxic releases making it a pressing concern and in need our immediate attention. <br/>
+According to our in-depth research and analysis we have discovered that about **51% of HABs release toxins**. There are about **2175 animal ilnesses and 117 human illnesses** associated with these toxic releases making it a pressing concern and in need our immediate attention. <br/>
 
 
 ![image](https://github.com/sanjana-vivek/SPECTRA/assets/126575036/93ba1dbf-b146-4b15-81c0-5cc40f9c41eb)  <br/>
 <ins>Legend </ins> <br/>
 ![image](https://github.com/sanjana-vivek/SPECTRA/assets/126575036/7b477635-e719-4df4-9d70-eb779cbbbf39)   Includes the annual reports of documented HAB<br/>
-![image](https://github.com/sanjana-vivek/SPECTRA/assets/126575036/42c6fdcf-e3b8-40d8-81a2-9d158ca780ad)   Includes the HAB events that had occcured in a given time period<br/>
+![image](https://github.com/sanjana-vivek/SPECTRA/assets/126575036/42c6fdcf-e3b8-40d8-81a2-9d158ca780ad)   Includes the HAB events that had occured in a given time period<br/>
 
 
 
@@ -56,12 +56,12 @@ We have adopted Sentinel 2's Level 2A and MODIS's (Moderate Resolution Imaging S
 <br/>
 
 ## Future developments and enhancement
-- Strenghten our model and improve it's accuracy further by enlargening our dataset. Our dataset scarcity is a known limitation we plan to actively work on. **Incorporation of other open data initiatives** such as those by NASA and other data providers can increase our access to free or low-cost satellite imagery. <br/>
-- **Fusion of multiple data sources** such as integrating satellite daata with that of aerial imagery by drones and other UAVs can provide a more comprehensive view of coastal and marine ecosytems.<br/>
-- Introducing **innovative modern technology such as cubesats** offer new opportunities for cost-effective and targeted monitoring.<br/>
+- Strengthen our model and further improve its accuracy by expanding our dataset. Our dataset scarcity is a known limitation we plan to actively work on. *Incorporation of other open data initiatives* such as those by NASA and other data providers can increase our access to free or low-cost satellite imagery. <br/>
+- *Fusion of multiple data sources* such as integrating satellite data with that of aerial imagery by drones and other UAVs can provide a more comprehensive view of coastal and marine ecosytems.<br/>
+- Introducing *innovative modern technology such as Cubesats* offer new opportunities for cost-effective and targeted monitoring.<br/>
 - *High-Altitude Pseudo-Satellites (HAPS)* can play a significant role in HAB monitoring :-<br/>
   1. <ins>Early detection</ins>  : Equipped with specialised sensors, they can detect HABs from high altitudes. Continuos monitoring helps provide timely response and mitigation efforts.<br/>
-  2. <ins>Large scale coverage</ins> : They have capability to cover large areas of water bodies providing comprehensive surveillance of potential HAb hotspots. Their ability to remain stationary or fly in controlled patterns fr extended periods enables systematic monitoring.<br/>
+  2. <ins>Large scale coverage</ins> : They have capability to cover large areas of water bodies providing comprehensive surveillance of potential HAB hotspots. Their ability to remain stationary or fly in controlled patterns fr extended periods enables systematic monitoring.<br/>
   3. <ins>Data Integration and Analysis</ins> : HAPS-derived imagery can be integrated with our remote sensing datasets. This helps enhance the understanding of HAB dynamics and associated environment parameters. 
  <br/><br/>
 
