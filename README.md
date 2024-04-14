@@ -17,12 +17,12 @@ There are different classes of HABS including cyanobacteria, dinoflagellate, pry
 
 According to our in-depth research and analysis we have discovered that about **51% of HABs release toxins**. There are about **2175 animal ilnesses and 117 human illnessses** associated with these toxic releases making it a pressing concern and in need our immediate attention. <br/>
 
-<p align="center">
-  ![image](https://github.com/sanjana-vivek/SPECTRA/assets/126575036/93ba1dbf-b146-4b15-81c0-5cc40f9c41eb)  <br/>
+
+![image](https://github.com/sanjana-vivek/SPECTRA/assets/126575036/93ba1dbf-b146-4b15-81c0-5cc40f9c41eb)  <br/>
 <ins>Legend </ins> <br/>
 ![image](https://github.com/sanjana-vivek/SPECTRA/assets/126575036/7b477635-e719-4df4-9d70-eb779cbbbf39)   Includes the annual reports of documented HAB<br/>
 ![image](https://github.com/sanjana-vivek/SPECTRA/assets/126575036/42c6fdcf-e3b8-40d8-81a2-9d158ca780ad)   Includes the HAB events that had occcured in a given time period<br/>
-</p> 
+
 
 
 ## Our solution 
