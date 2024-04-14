@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HAB PREDICTOR</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        section {
+            display: none;
+        }
+        container img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 0 auto;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        section h2 {
+            margin-top: 40px;
+            color: #007bff;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1 style=>HAB PREDICTOR - TEAM SPECTRA</h1>
+            <nav>
+                <ul>
+                    <li><a href="#about-project">About Project</a></li>
+                    <li><a href="#data-used">Data Used</a></li>
+                    <li><a href="#more-on-algal-blooms">More on Algal Blooms</a></li>
+                    <li><a href="#try-it">Try It</a></li>
+                    <li><a href="#about-us">About Us</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="about-project">
+        <div class="container">
+            <h2>About Project</h2>
+            <p>Our project focuses on the detection of harmful algal blooms in ocean bodies through a user-friendly front-end interface. The process begins with users providing coordinates of the Region of Interest (ROI) they wish to monitor. Utilizing these coordinates, our system accesses data from MODIS and Sentinel satellites, as well as meteorological data from relevant regional websites via API calls.</p>
+            <p>Once the preprocessing is complete, the resulting data is structured into a coherent dataframe, facilitating streamlined analysis and interpretation. Subsequently, the prepared data is fed into our machine learning model, trained to identify the presence and extent of algal blooms within the designated ROI.</p>
+            <p>In the event of detected algal blooms or an increase in their severity, our system automatically triggers notifications to relevant oceanic authorities via email. This proactive approach aims to facilitate timely response measures, thereby mitigating potential environmental impacts and safeguarding marine ecosystems.</p>
+            <img src="project_image.jpeg" alt="Project Image">
+            <h3>Feature Extraction from Satellite Imagery</h3>
+            <p>To extract the features listed in your prompt from satellite imagery, we can employ various filtering mechanisms and image processing techniques:</p>
+            <ul>
+                <li><strong>Spatial Filtering:</strong> Convolutional filters, such as Gaussian filters, can be applied to enhance specific features.</li>
+                <li><strong>Spectral Filtering:</strong> Techniques like NDVI and NDWI can highlight certain features or suppress noise.</li>
+                <li><strong>Statistical Filtering:</strong> Computing statistical metrics across the image can provide valuable information about surface properties.</li>
+                <li><strong>Feature Extraction:</strong> Specific features like temperature, sea level pressure, and chlorophyll concentration can be derived from the processed satellite imagery.</li>
+                <li><strong>Integration and Analysis:</strong> Extracted features are integrated and analyzed using machine learning algorithms to predict algal bloom events and identify hotspot areas.</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="data-used">
+        <div class="container">
+            <h2>Data Used</h2>
+            <h3>Satellite Data Sources:</h3>
+            <ul>
+                <li><strong>Sentinel-2A:</strong> Operated by the European Space Agency (ESA), Sentinel-2A is part of the Copernicus program. It provides high-resolution optical imagery with 13 spectral bands, ranging from visible to shortwave infrared.</li>
+                <li><strong>MODIS (Moderate Resolution Imaging Spectroradiometer):</strong> Deployed on NASA's Terra and Aqua satellites, MODIS captures data in 36 spectral bands, including visible, near-infrared, and thermal infrared. It offers a wider swath width compared to Sentinel-2, albeit at coarser spatial resolution.</li>
+            </ul>
+            <div class="image-container">
+                <figure>
+                    <img src="sentinel.png" alt="sentinel.png">
+                    <figcaption>Sentinel-2A</figcaption>
+                </figure>
+                <figure>
+                    <img src="modis.png" alt="modis.png">
+                    <figcaption>MODIS</figcaption>
+                </figure>
+            </div>
+        </div>
+    </section>
+
+    <section id="more-on-algal-blooms">
+        <div class="container">
+            <h2>More on Algal Blooms</h2>
+            <p>Explore the following resources to learn more about harmful algal blooms:</p>
+            <ol>
+                <li><a href="https://oceanservice.noaa.gov/hazards/hab/" target="_blank">NOAA Harmful Algal Blooms (HABs)</a> - NOAA's comprehensive information on harmful algal blooms, including causes, impacts, monitoring, and management.</li>
+                <li><a href="https://www.epa.gov/nutrient-policy-data/cyanohabs" target="_blank">EPA Algal Blooms Home Page</a> - Overview of algal blooms, their impacts on water quality, and resources for bloom monitoring and management by the Environmental Protection Agency.</li>
+                <li><a href="https://www.who.int/news-room/fact-sheets/detail/water-sanitation-hygiene-and-health" target="_blank">WHO Water-related Diseases: Harmful Algal Blooms</a> - In-depth look at harmful algal blooms, their health risks, and preventive measures by the World Health Organization.</li>
+                <li><a href="https://www.cdc.gov/habs/" target="_blank">CDC Harmful Algal Blooms (HABs)</a> - Information on health risks associated with harmful algal blooms and ways to prevent exposure by the Centers for Disease Control and Prevention.</li>
+                <li><a href="https://earthobservatory.nasa.gov/features/Algae" target="_blank">UC Santa Cruz Algal Bloom Monitoring & Prediction</a> - Insights into algal bloom monitoring and prediction methods, including satellite imagery and modeling approaches by the University of California, Santa Cruz.</li>
+                <li><a href="https://earthobservatory.nasa.gov/features/Algae" target="_blank">NASA Earth Observatory: Algal Blooms</a> - Articles and visualizations on algal blooms, showcasing satellite imagery and scientific research by NASA's Earth Observatory.</li>
+            </ol>
+            <img src="HAB pollution.png" alt="Algal Bloom Image">
+        </div>
+    </section>
+
+<section id="try-it" style="width: 30%;">
+    <div style="text-align: left;">
+        <h2>Try It</h2>
+        <a href="https://github.com/sanjana-vivek/SPECTRA" target="_blank">GitHub Link to our project</a>
+        <!-- content -->
+    </div>
+</section>
+
+<section id="about-us" style="width: 90%;">
+    <div style="display: flex; justify-content: space-between;">
+        <div style="width: 30%;">
+            <div style="text-align: center;">
+                <h2>About Us</h2>
+            </div>
+        </div>
+        <div style="width: 30%; margin-left: 20px;">
+            <div class="member">
+                <h3>Aakaash</h3>
+                <p>Python - Machine learning (Scikit and Tensorflow), Astropy, Pygame</p>
+                <a href="https://github.com/AakaashfromIndia" target="_blank">GitHub Profile</a>
+            </div>
+        </div>
+        <div style="width: 30%; margin-left: 20px;">
+            <div class="member">
+                <h3>Nehaa Shri</h3>
+                <p>Machine learning and front-end development (MERN stack)</p>
+                <a href="https://github.com/nehaa0305" target="_blank">GitHub Profile</a>
+            </div>
+        </div>
+        <div style="width: 30%; margin-left: 20px;">
+            <div class="member">
+                <h3>Sanjana Vivek</h3>
+                <p>Back-end development (fastapi, nodejs, firebase)</p>
+                <a href="https://github.com/sanjana-vivek" target="_blank">GitHub Profile</a>
+            </div>
+        </div>
+    </div>
+</section>
+    <script>
+        document.querySelectorAll('nav a').forEach(anchor => {
+            anchor.addEventListener('click', function(e) {
+                e.preventDefault();
+                document.querySelectorAll('section').forEach(section => {
+                    section.style.display = 'none';
+                });
+                document.querySelector(this.getAttribute('href')).style.display = 'block';
+                window.scrollTo({
+                    top: document.querySelector(this.getAttribute('href')).offsetTop,
+                    behavior: 'smooth'
+                });
+            });
+        });
+    </script>
+</body>
+</html>
