@@ -37,7 +37,7 @@ We have adopted Sentinel 2's Level 2A and MODIS's (Moderate Resolution Imaging S
 
 ### Our model 
 - We have adopted a **Random Forest machine learning model** targeted at detecting the toxicity of the algal bloom as in cells per litre. <br/>
-- An algal bloom is classfied as a harmful toxic bloom when the toxicity is greater than 15 million cells/litre. <br/>
+- An algal bloom is classified as a harmful toxic bloom when the toxicity is greater than 15 million cells/litre. <br/>
 - Our model has by far the following **accuracy** <br/> <br/>
   ![WhatsApp Image 2024-04-14 at 08 37 11](https://github.com/sanjana-vivek/SPECTRA/assets/126575036/22c6ec62-966f-4bcf-9bee-cdb60ec10a86)
 
