@@ -39,12 +39,19 @@ We have adopted Sentinel 2's Level 2A and MODIS's (Moderate Resolution Imaging S
 - We have adopted a **Random Forest machine learning model** targeted at detecting the toxicity of the algal bloom as in cells per litre. <br/>
 - An algal bloom is classified as a harmful toxic bloom when the toxicity is greater than 15 million cells/litre. <br/>
 - Our model has by far the following **accuracy** <br/> <br/>
-  ![WhatsApp Image 2024-04-14 at 08 37 11](https://github.com/sanjana-vivek/SPECTRA/assets/126575036/22c6ec62-966f-4bcf-9bee-cdb60ec10a86)
+  ![WhatsApp Image 2024-04-14 at 08 37 11](https://github.com/sanjana-vivek/SPECTRA/assets/126575036/22c6ec62-966f-4bcf-9bee-cdb60ec10a86) <br/>
+- Our model **stands apart with this display of the importances of all of it's features** <br/>
+  ![Figure_0](https://github.com/sanjana-vivek/SPECTRA/assets/126575036/255562b3-a16b-4fc3-bc08-ceb5864f80bb) <br/>
+- The actual data vs predicted data by the model <br/>
+![Figure_1](https://github.com/sanjana-vivek/SPECTRA/assets/126575036/392e5d9b-3408-4f48-af77-5e0c3b41114e) <br/>
+- Clustered representation <br/>
+![Figure_2](https://github.com/sanjana-vivek/SPECTRA/assets/126575036/622dcfa1-bd74-455b-9e76-352bb522edeb)
+
 
 <br/> <br/> 
 Our dataset is limited as of now hence there has been a case of over-fitting. 
 
 ## Future developments
 - Strenghten our model and improve it's accuracy further by enlargening our dataset.
-- 
+  
 
