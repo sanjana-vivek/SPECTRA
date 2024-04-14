@@ -64,5 +64,6 @@ We have adopted Sentinel 2's Level 2A and MODIS's (Moderate Resolution Imaging S
   3. <ins>Data Integration and Analysis</ins> : HAPS-derived imagery can be integrated with our remote sensing datasets. This helps enhance the understanding of HAB dynamics and associated environment parameters. <br/>
  <br/>
 > [!TIP]
-> Our project is in active development. We encourage you to contribute by creating pull requests to suggest changes or enhancements.
+> Our project is in active development.
+> We encourage you to contribute by creating pull requests to suggest changes or enhancements.
 
