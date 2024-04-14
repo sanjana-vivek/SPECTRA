@@ -31,7 +31,7 @@ Using **Python** and its machine learning libraries such as Scikit-learn, matlab
 **Satellite imagery data** will be our primary tool in the development of accurate predictive models. Our aim is to integrate space technology to address environmental challenges on Earth. <br/>
 
 ### Leveraging satellite data
-We have adopted Sentinel 2's Level 2A and MODIS's (Moderate Resolution Imaging Spectroradiometer) imagery for our training dataset. <br/><br/>
+We have adopted Sentinel 2's Level 2A and MODIS's (Moderate Resolution Imaging Spectroradiometer) imagery for our training and testing dataset. <br/><br/>
 **The Sentinel 2** satellite is a European Space Agency (ESA) mission aimed at providing high-resolution optical imagery of Earth's surface for various applications, including environmental monitoring, agriculture, and disaster management.<br/> Launched in 2015, its purpose is to ensure continuity of data from previous satellites and to improve upon their capabilities, offering multispectral imagery with a wide swath width and frequent revisits.<br/> The satellite constellation captures imagery in 13 spectral bands, enabling detailed monitoring of land cover, vegetation health, and changes over time. <br/><br/>
 **The Moderate Resolution Imaging Spectroradiometer (MODIS)** satellite was launched by NASA in 1999 aboard the Terra (EOS AM) satellite and in 2002 aboard the Aqua (EOS PM) satellite. It is operated jointly by NASA and the United States Geological Survey (USGS). MODIS captures high-resolution imagery of the Earth's surface in multiple spectral bands, providing valuable data for monitoring changes in the atmosphere, land surface, and oceans for various scientific and environmental applications.
 
