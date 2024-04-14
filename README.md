@@ -45,8 +45,7 @@ We have adopted Sentinel 2's Level 2A and MODIS's (Moderate Resolution Imaging S
 - The actual data vs predicted data by the model <br/>
 ![Figure_1](https://github.com/sanjana-vivek/SPECTRA/assets/126575036/392e5d9b-3408-4f48-af77-5e0c3b41114e) <br/>
 - Clustered representation <br/>
-![Figure_2](https://github.com/sanjana-vivek/SPECTRA/assets/126575036/622dcfa1-bd74-455b-9e76-352bb522edeb)
-
+![Figure_3](https://github.com/sanjana-vivek/SPECTRA/assets/126575036/c10d139c-938b-4354-adcf-deadc55c3b92)
 
 <br/> <br/> 
 Our dataset is limited as of now hence there has been a case of over-fitting. 
