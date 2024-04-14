@@ -42,8 +42,9 @@ We have adopted Sentinel 2's Level 2A and MODIS's (Moderate Resolution Imaging S
   ![WhatsApp Image 2024-04-14 at 08 37 11](https://github.com/sanjana-vivek/SPECTRA/assets/126575036/22c6ec62-966f-4bcf-9bee-cdb60ec10a86)
 
 <br/> <br/> 
-Our dataset is limited as of now hence there has been cases of over-ffitting
+Our dataset is limited as of now hence there has been a case of over-fitting. 
 
 ## Future developments
-
+- Strenghten our model and improve it's accuracy further by enlargening our dataset.
+- 
 
