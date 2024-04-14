@@ -64,7 +64,7 @@ We have adopted Sentinel 2's Level 2A and MODIS's (Moderate Resolution Imaging S
   2. <ins>Large scale coverage</ins> : They have capability to cover large areas of water bodies providing comprehensive surveillance of potential HAb hotspots. Their ability to remain stationary or fly in controlled patterns fr extended periods enables systematic monitoring.<br/>
   3. <ins>Data Integration and Analysis</ins> : HAPS-derived imagery can be integrated with our remote sensing datasets. This helps enhance the understanding of HAB dynamics and associated environment parameters. <br/>
  <br/>
-> [!TIP] <br/>
-> Our project is in active development. <br/>
-> We encourage you to contribute by creating pull requests to suggest changes or enhancements.
+
+ > [!TIP]
+> Our project is in active development. We encourage you to contribute by creating pull requests to suggest changes or enhancements.
 
