@@ -52,7 +52,7 @@ We have adopted Sentinel 2's Level 2A and MODIS's (Moderate Resolution Imaging S
 
 <br/> <br/> 
 > [!NOTE]  
-> Our dataset is limited as of now hence there has been a case of over-fitting. 
+> Our dataset is limited as of now with a large amount of dimensions in the traning data hence there has been a case of over-fitting. 
 <br/>
 
 ## Future developments and enhancement
